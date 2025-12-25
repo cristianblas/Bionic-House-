@@ -15,9 +15,13 @@ A nivel técnico, el sistema fue desarrollado utilizando el ESP-IDF, haciendo us
 
 <img width="1384" height="913" alt="Esquematico" src="https://github.com/user-attachments/assets/6dfa7ec5-64be-4418-9648-42fe4d7a1bf4" />
 
-#Diseño PCB Bswitch
+#Diseño PCB Bswitch para TH
 
 <img width="634" height="919" alt="image" src="https://github.com/user-attachments/assets/ac1808c1-74d0-4c16-a299-e97fb2009d49" />
+
+#Diseño PCB Bswitch para SMD
+
+<img width="632" height="916" alt="image" src="https://github.com/user-attachments/assets/808d1d1d-08bd-426a-8b07-606ebcdd302d" />
 
 #Esquematico del Cerebro del sistema bautizado como DCPO
 
