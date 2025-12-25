@@ -7,6 +7,10 @@ El proyecto tiene como objetivo controlar y monitorear distintos componentes dom
 
 A nivel técnico, el sistema fue desarrollado utilizando el ESP-IDF, haciendo uso de tareas de FreeRTOS, comunicación inalámbrica Wi-Fi en modo mesh, manejo de interrupciones, temporizadores y comunicación serial para depuración. El código está estructurado de forma modular para facilitar la escalabilidad, permitiendo agregar nuevos nodos o dispositivos sin afectar el funcionamiento general del sistema.
 
+####
+#####
+###### Todo el diseño fue realizado en altium designer
+
 #Esquematico del BSwitch
 
 <img width="1384" height="913" alt="Esquematico" src="https://github.com/user-attachments/assets/6dfa7ec5-64be-4418-9648-42fe4d7a1bf4" />
