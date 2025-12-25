@@ -7,6 +7,18 @@ El proyecto tiene como objetivo controlar y monitorear distintos componentes dom
 
 A nivel técnico, el sistema fue desarrollado utilizando el ESP-IDF, haciendo uso de tareas de FreeRTOS, comunicación inalámbrica Wi-Fi en modo mesh, manejo de interrupciones, temporizadores y comunicación serial para depuración. El código está estructurado de forma modular para facilitar la escalabilidad, permitiendo agregar nuevos nodos o dispositivos sin afectar el funcionamiento general del sistema.
 
+#Esquematico del BSwitch
+
+<img width="1384" height="913" alt="Esquematico" src="https://github.com/user-attachments/assets/6dfa7ec5-64be-4418-9648-42fe4d7a1bf4" />
+
 #Diseño PCB Bswitch
+
 <img width="634" height="919" alt="image" src="https://github.com/user-attachments/assets/ac1808c1-74d0-4c16-a299-e97fb2009d49" />
 
+#Esquematico del Cerebro del sistema bautizado como DCPO
+
+<img width="1371" height="907" alt="image" src="https://github.com/user-attachments/assets/fc1a105f-0a36-47ea-a97a-aee32bd4f42e" />
+
+#Diseño PCB DCPO
+
+<img width="1316" height="722" alt="image" src="https://github.com/user-attachments/assets/8db11464-d17d-4bda-bb00-cf975e85346e" />
